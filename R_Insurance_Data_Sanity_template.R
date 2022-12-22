@@ -141,4 +141,4 @@ mosaicplot(table(data$policy_state, data$fraud_reported),
 
 ##### Check Missing Values
 
-
+dat<- read.csv()
